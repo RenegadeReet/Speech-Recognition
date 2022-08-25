@@ -1,0 +1,650 @@
+[
+    {
+        "text": "Google is back with this new Pixel Six, and this model brings some major changes compared to what we saw last year, including a custom chipset and new dual cameras.",
+        "start": 14230,
+        "end": 24502,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9381085634231567,
+        "speaker": null
+    },
+    {
+        "text": "There are some downgrades paired to the Pro model, though, so is this one still worth getting?",
+        "start": 24646,
+        "end": 29706,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6329396963119507,
+        "speaker": null
+    },
+    {
+        "text": "I'm will for GSM Marina.",
+        "start": 29828,
+        "end": 31366,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5511025190353394,
+        "speaker": null
+    },
+    {
+        "text": "And let's find out in our Google Pixel Six review.",
+        "start": 31438,
+        "end": 34340,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6129106283187866,
+        "speaker": null
+    },
+    {
+        "text": "The Pixel Six stands out from the crowd and its predecessors with this uniquely designed camera bump, which extends a black bar across the whole back panel.",
+        "start": 38970,
+        "end": 48662,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7984480857849121,
+        "speaker": null
+    },
+    {
+        "text": "This allows Google to go for a twotone look with a different color above and below the camera strip.",
+        "start": 48806,
+        "end": 54602,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5371367931365967,
+        "speaker": null
+    },
+    {
+        "text": "It's not quite as noticeable in our stormy black finish, though.",
+        "start": 54686,
+        "end": 58018,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6867613792419434,
+        "speaker": null
+    },
+    {
+        "text": "The camera bump sticks out quite a bit from the back and can be a Lint magnet.",
+        "start": 58164,
+        "end": 62342,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8687285780906677,
+        "speaker": null
+    },
+    {
+        "text": "But at least since it's all the way across, it doesn't make the phone wobble while it's sitting on a desk.",
+        "start": 62426,
+        "end": 67406,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5932194590568542,
+        "speaker": null
+    },
+    {
+        "text": "Google has gone in a different direction from last year's Pixel Five.",
+        "start": 67598,
+        "end": 71146,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7323373556137085,
+        "speaker": null
+    },
+    {
+        "text": "Rather than plastic, it's now a premium Gorilla Glass Six panel with a rounded matte aluminum frame at 207 grams.",
+        "start": 71268,
+        "end": 79046,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6113580465316772,
+        "speaker": null
+    },
+    {
+        "text": "It's a bit chunkier than the Pixel Five too, and overall it feels sturdy in hand.",
+        "start": 79118,
+        "end": 83760,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8073042631149292,
+        "speaker": null
+    },
+    {
+        "text": "But something it does share with the previous model is IP 68 rated dust and water resistance.",
+        "start": 84090,
+        "end": 89102,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7619807720184326,
+        "speaker": null
+    },
+    {
+        "text": "For peace of mind.",
+        "start": 89186,
+        "end": 90274,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5692886114120483,
+        "speaker": null
+    },
+    {
+        "text": "The Pixel Six display is a flat 6.4 inch AMOLED with a ten NDP resolution, a punch hole for the selfie cam and Gorilla Glass victim protection.",
+        "start": 90432,
+        "end": 100046,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5502373576164246,
+        "speaker": null
+    },
+    {
+        "text": "Some people might prefer this flat screen to the Pro model's curved one, but there are some downgrades here too a slower 90 Hz refresh rate and a lower 1080p resolution.",
+        "start": 100238,
+        "end": 109946,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5324556827545166,
+        "speaker": null
+    },
+    {
+        "text": "Even so, the regular Pixel Fixes display is quite decent.",
+        "start": 110078,
+        "end": 113558,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8953844308853149,
+        "speaker": null
+    },
+    {
+        "text": "It's sharp enough and smooth enough even without those higher end specs.",
+        "start": 113654,
+        "end": 117914,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6687366366386414,
+        "speaker": null
+    },
+    {
+        "text": "The picture is contrasting, thanks to AMOLED technology, and there's HDR Ten plus support.",
+        "start": 118022,
+        "end": 123202,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6776638627052307,
+        "speaker": null
+    },
+    {
+        "text": "The color presets can deliver okay accuracy, and max brightness is good too.",
+        "start": 123336,
+        "end": 127978,
+        "sentiment": "POSITIVE",
+        "confidence": 0.936129093170166,
+        "speaker": null
+    },
+    {
+        "text": "We measured up to 860 nits in auto mode when in bright light.",
+        "start": 128064,
+        "end": 132226,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7885087132453918,
+        "speaker": null
+    },
+    {
+        "text": "You also get an under display fingerprint reader for your Biometrics rather than a capacitive one.",
+        "start": 132408,
+        "end": 137338,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7953029274940491,
+        "speaker": null
+    },
+    {
+        "text": "It's reliable, but not the fastest we've used for audio.",
+        "start": 137424,
+        "end": 141398,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6886503100395203,
+        "speaker": null
+    },
+    {
+        "text": "The Pixel Six has a pair of stereo speakers with one bottom firing speaker and the other that doubles as the earpiece.",
+        "start": 141434,
+        "end": 147290,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8416110277175903,
+        "speaker": null
+    },
+    {
+        "text": "The pair earned a good score on our loudness charts, and the sound quality is good too, comparable to that of the iPhone 13.",
+        "start": 147410,
+        "end": 154570,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9834338426589966,
+        "speaker": null
+    },
+    {
+        "text": "You don't get a traditional headphone jack on the Pixel Six or expandable storage either.",
+        "start": 163150,
+        "end": 167606,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5642041563987732,
+        "speaker": null
+    },
+    {
+        "text": "There is a choice of 128 or 256 gigs on board, though.",
+        "start": 167728,
+        "end": 171880,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9159240126609802,
+        "speaker": null
+    },
+    {
+        "text": "One of the major developments of this year's Pixel phones is that they feature the new five nanometer Tensor chipset built inhouse by Google.",
+        "start": 172210,
+        "end": 179906,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9325143098831177,
+        "speaker": null
+    },
+    {
+        "text": "It seems that Google wants to stand out from other Android manufacturers and provide a more proprietary experience, since this is the first generation.",
+        "start": 180028,
+        "end": 187830,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6537569761276245,
+        "speaker": null
+    },
+    {
+        "text": "Software wise, the Pixel Six doesn't feel so different from other high end Android phones, except for the fact that it runs the new Android Twelve, which provides things like color themes for your icons and menus.",
+        "start": 187950,
+        "end": 198890,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5476824641227722,
+        "speaker": null
+    },
+    {
+        "text": "There are a couple of neat features made possible by the Tensor chips machine learning capability.",
+        "start": 199210,
+        "end": 203934,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9512413144111633,
+        "speaker": null
+    },
+    {
+        "text": "Google's automatic speech recognition is more advanced than ever before, and real time translation is becoming even more of a reality, both in actual conversations as well as the captions for videos that you're watching.",
+        "start": 204102,
+        "end": 216170,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9018859267234802,
+        "speaker": null
+    },
+    {
+        "text": "It's not perfect, but it's impressive nonetheless.",
+        "start": 216280,
+        "end": 218930,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8839895129203796,
+        "speaker": null
+    },
+    {
+        "text": "The other major differences here are behind the scenes, like with the camera processing in particular.",
+        "start": 219730,
+        "end": 224222,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.49150463938713074,
+        "speaker": null
+    },
+    {
+        "text": "In benchmarks, the Tensor's performance is excellent, comparable to the highend snapdragon 888 chipset.",
+        "start": 224416,
+        "end": 231234,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9688197374343872,
+        "speaker": null
+    },
+    {
+        "text": "Demanding games run pretty well too, but I wouldn't call this a gaming phone.",
+        "start": 231402,
+        "end": 235754,
+        "sentiment": "POSITIVE",
+        "confidence": 0.44896453619003296,
+        "speaker": null
+    },
+    {
+        "text": "Thermal management could be better, and we measured thermal throttling in our stress tests, which could become noticeable during long gaming sessions.",
+        "start": 235852,
+        "end": 242570,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5217306017875671,
+        "speaker": null
+    },
+    {
+        "text": "The Pixel Six isn't a battery champion either, but it does a decent job with this 4600 millionP hour battery, scoring an endurance rating of 86 hours.",
+        "start": 243130,
+        "end": 251474,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8709667325019836,
+        "speaker": null
+    },
+    {
+        "text": "In our proprietary tests, the phone doesn't actually come with a charger in the box.",
+        "start": 251512,
+        "end": 256286,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6538263559341431,
+        "speaker": null
+    },
+    {
+        "text": "We were able to charge it to 41% in half an hour with an 18 watt one.",
+        "start": 256408,
+        "end": 260462,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6769495606422424,
+        "speaker": null
+    },
+    {
+        "text": "There's also support for wireless charging.",
+        "start": 260536,
+        "end": 262734,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6602553725242615,
+        "speaker": null
+    },
+    {
+        "text": "The Pixel Six s new dual cameras include a main camera with a larger 50 megapixel sensor and also a twelve megapixel ultra wide camera.",
+        "start": 262902,
+        "end": 271062,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5151605010032654,
+        "speaker": null
+    },
+    {
+        "text": "You don't get a telephoto zoom like on the Pro model, though.",
+        "start": 271146,
+        "end": 273938,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7156548500061035,
+        "speaker": null
+    },
+    {
+        "text": "During the day, photos from the Pixel Six s main camera are great.",
+        "start": 274084,
+        "end": 277766,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9846643805503845,
+        "speaker": null
+    },
+    {
+        "text": "There's excellent sharpness and plenty of fine detail with a characteristic Pixel style rendition.",
+        "start": 277888,
+        "end": 283458,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9551932215690613,
+        "speaker": null
+    },
+    {
+        "text": "Plus there's high contrast and wide dynamic range, as well as vivid but not over saturated colors.",
+        "start": 283614,
+        "end": 289670,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8304011821746826,
+        "speaker": null
+    },
+    {
+        "text": "Portrait shots are decently sharp and have generally good subject separation.",
+        "start": 290650,
+        "end": 295050,
+        "sentiment": "POSITIVE",
+        "confidence": 0.907198429107666,
+        "speaker": null
+    },
+    {
+        "text": "There are still some mix ups from time to time, though, although there's no zoom lens.",
+        "start": 295170,
+        "end": 300414,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7656210064888,
+        "speaker": null
+    },
+    {
+        "text": "The digital zoom does a decent job, at least at two times magnification.",
+        "start": 300462,
+        "end": 304206,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8673386573791504,
+        "speaker": null
+    },
+    {
+        "text": "You just see a bit of extra softness if you look closely.",
+        "start": 304398,
+        "end": 307550,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7366524934768677,
+        "speaker": null
+    },
+    {
+        "text": "We did try the new motion mode, which is powered by the Tensor chipset, but it's still in beta and has some kinks to be ironed out.",
+        "start": 308290,
+        "end": 314666,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8216744661331177,
+        "speaker": null
+    },
+    {
+        "text": "With the action pan function, it wasn't easy to catch a moving subject in the frame, and the subject detection and detail leave more to be desired.",
+        "start": 314788,
+        "end": 322310,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7568824291229248,
+        "speaker": null
+    },
+    {
+        "text": "The long exposure function is easier to work with and produces okay results.",
+        "start": 323050,
+        "end": 327710,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8535676002502441,
+        "speaker": null
+    },
+    {
+        "text": "The ultra wide cam captures very good photos with lots of detail, good contrast, wide dynamic range and pleasing vibrant colors.",
+        "start": 328870,
+        "end": 336954,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9810771346092224,
+        "speaker": null
+    },
+    {
+        "text": "There is some noise present, and the field of view isn't as wide as on some competitors.",
+        "start": 337122,
+        "end": 341750,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5587096810340881,
+        "speaker": null
+    },
+    {
+        "text": "If you're shooting with the main camera in dark conditions, the Pixel Six will apply auto nightsite processing by default.",
+        "start": 342730,
+        "end": 349062,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8390855193138123,
+        "speaker": null
+    },
+    {
+        "text": "You can also toggle the night sight mode on the photos have good sharpness and detail even in shadows, and point light sources are well preserved.",
+        "start": 349206,
+        "end": 358074,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8871679902076721,
+        "speaker": null
+    },
+    {
+        "text": "The overall exposure is bright too, which is a neat effect even if not the most natural looking disable night sight mode on the main camera, and the results are still good.",
+        "start": 358242,
+        "end": 367730,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9732742309570312,
+        "speaker": null
+    },
+    {
+        "text": "There's enough detail and accurate colors, and the exposure has a more realistic look.",
+        "start": 367840,
+        "end": 372302,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8342573642730713,
+        "speaker": null
+    },
+    {
+        "text": "Dynamic range is actually pretty wide with well developed highlights, but shadows are a bit mushier in comparison.",
+        "start": 372436,
+        "end": 379554,
+        "sentiment": "POSITIVE",
+        "confidence": 0.4775257408618927,
+        "speaker": null
+    },
+    {
+        "text": "The ultra wide camera struggles without night sight mode.",
+        "start": 379602,
+        "end": 382578,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4998074173927307,
+        "speaker": null
+    },
+    {
+        "text": "The images are underexposed with deep and noisy shadows.",
+        "start": 382674,
+        "end": 386270,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5532019734382629,
+        "speaker": null
+    },
+    {
+        "text": "With night sight on, things are looking a lot better.",
+        "start": 386830,
+        "end": 389570,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9573560953140259,
+        "speaker": null
+    },
+    {
+        "text": "There's a big improvement in the exposure and noise levels, and more detail in the shadows.",
+        "start": 389680,
+        "end": 394430,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8597540259361267,
+        "speaker": null
+    },
+    {
+        "text": "The Pixel Six has an eight megapixel selfie camera, and it produces sharp and detailed images with minimal noise.",
+        "start": 395410,
+        "end": 401562,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8681045770645142,
+        "speaker": null
+    },
+    {
+        "text": "Colors are pleasant and the dynamic range is excellent, with even backlit scenes coming out okay.",
+        "start": 401706,
+        "end": 407260,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9888913631439209,
+        "speaker": null
+    },
+    {
+        "text": "Video can be captured with the main cam and up to 4K resolution at 60 FPS.",
+        "start": 408370,
+        "end": 412878,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7427478432655334,
+        "speaker": null
+    },
+    {
+        "text": "4k footage is very good, with competitive sharpness and detail, accurate exposure, and superbly in the range.",
+        "start": 413034,
+        "end": 420198,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9735785722732544,
+        "speaker": null
+    },
+    {
+        "text": "Colors are quite lively, too.",
+        "start": 420354,
+        "end": 422260,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9147109389305115,
+        "speaker": null
+    },
+    {
+        "text": "The ultrawide cam's footage is also quite nice, sharp and detailed, and matching the main cam in colors and dynamic range.",
+        "start": 422770,
+        "end": 430190,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9781599640846252,
+        "speaker": null
+    },
+    {
+        "text": "And here's how the electronic video stabilization looks in 4K from either camera.",
+        "start": 430570,
+        "end": 435414,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8908836841583252,
+        "speaker": null
+    },
+    {
+        "text": "It produces very stable clips with well ironed footsteps and pans.",
+        "start": 435522,
+        "end": 439610,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7466252446174622,
+        "speaker": null
+    },
+    {
+        "text": "For more shaky situations, there's an active Vis mode.",
+        "start": 440050,
+        "end": 443574,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7574272751808167,
+        "speaker": null
+    },
+    {
+        "text": "It only works in 1080p, but its results are extra smooth.",
+        "start": 443682,
+        "end": 447650,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8780593276023865,
+        "speaker": null
+    },
+    {
+        "text": "So that's the Pixel six.",
+        "start": 448810,
+        "end": 450386,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8319436311721802,
+        "speaker": null
+    },
+    {
+        "text": "Like last year, you get a nice 90 Hz AMOLED, good stereo speakers, IP rated waterproofing, and Google software support.",
+        "start": 450508,
+        "end": 457634,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9265508651733398,
+        "speaker": null
+    },
+    {
+        "text": "But the Pixel Six also breaks away from last year's model in quite a few ways, delivering a more premium experience not only with the glass design, but with a custom flagship chipset and the new and improved cameras.",
+        "start": 457792,
+        "end": 469698,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8789524435997009,
+        "speaker": null
+    },
+    {
+        "text": "The only real shortcomings to mention is that the battery life and charging speed are just decent, and you don't get the higher refresh rate and resolution or the zoom lens of the Pro model.",
+        "start": 469854,
+        "end": 479330,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6306166052818298,
+        "speaker": null
+    },
+    {
+        "text": "But for what it has to offer, the Pixel Six has a pretty competitive price, and if you're able to find it available in your neck of the woods, it's worth recognizing a mending.",
+        "start": 479500,
+        "end": 487698,
+        "sentiment": "POSITIVE",
+        "confidence": 0.864148736000061,
+        "speaker": null
+    },
+    {
+        "text": "Thanks for watching.",
+        "start": 487854,
+        "end": 488846,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9529334306716919,
+        "speaker": null
+    },
+    {
+        "text": "Stay safe and see you on the next one.",
+        "start": 488968,
+        "end": 490580,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7296228408813477,
+        "speaker": null
+    }
+]
